@@ -20,7 +20,7 @@ The function should:
 */
 
 function createMenuItem(/*Your code here*/) {
-  /*Your code here still writing */
+  /*Your code here */
 }
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1b: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
